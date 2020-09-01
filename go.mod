@@ -18,5 +18,5 @@ require (
 	github.com/stretchr/testify v1.6.1
 	github.com/tomnomnom/linkheader v0.0.0-20180905144013-02ca5825eb80
 	golang.org/x/tools v0.0.0-20200724022722-7017fd6b1305
-	gotest.tools/gotestsum v0.5.2
+	gotest.tools/gotestsum v0.5.3
 )
